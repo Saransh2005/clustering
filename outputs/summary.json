@@ -1,0 +1,15 @@
+{
+  "rows_loaded": 200000,
+  "transfers": 16836,
+  "customers": 24991,
+  "total_value": 14253986946.88,
+  "threshold": 2348209.755,
+  "high_value_transfers": 842,
+  "most_active": "C248609774",
+  "most_active_total": 23,
+  "most_active_sent": 0,
+  "most_active_received": 23,
+  "once_customers": 21287,
+  "extended_most_active": "C985934102",
+  "extended_most_active_total": 84
+}

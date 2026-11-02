@@ -1,0 +1,11 @@
+# Ignore 470MB raw dataset (GitHub limit is 100MB)
+PS_20174392719_1491204439457_log.csv
+PS_20174392719_1491204439457_log_1.csv
+
+# Python cache & environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.DS_Store
+
